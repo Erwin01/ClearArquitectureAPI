@@ -1,0 +1,15 @@
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\bin\Debug\net5.0\CleanArquitecture.Infraestructure.deps.json
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\bin\Debug\net5.0\CleanArquitecture.Infraestructure.dll
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\bin\Debug\net5.0\ref\CleanArquitecture.Infraestructure.dll
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\bin\Debug\net5.0\CleanArquitecture.Infraestructure.pdb
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\bin\Debug\net5.0\CleanArquitecture.Domain.dll
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\bin\Debug\net5.0\CleanArquitecture.Domain.pdb
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.csproj.CopyComplete
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.dll
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\ref\CleanArquitecture.Infraestructure.dll
+C:\Development2022\ApplicationFull\API Clear Arquitecture\CleanArquitecture.Infraestructure\obj\Debug\net5.0\CleanArquitecture.Infraestructure.pdb
