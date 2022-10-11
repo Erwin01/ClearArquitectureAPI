@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClearArquitecture.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ClearArquitecture.Api.Controllers.ProductController.GetAllAsync">
+            <summary>
+            This Method return the list of products
+            </summary>
+            <returns> All </returns>
+            <response code = "200">This code show you get alls products</response>
+            <response code = "400">This code show you not found</response>
+        </member>
+        <member name="M:ClearArquitecture.Api.Controllers.ProductController.GetByIdAsync(System.Int32)">
+            <summary>
+            This Method return the product By Id
+            </summary>
+            <param name="id"></param>
+            <returns> Id </returns>
+            <response code = "200">This code show you product by Id</response>
+            <response code = "204">This code show you product not found</response>
+            <response code = "500">This code show error in the request or fail in the codification</response>
+        </member>
+        <member name="M:ClearArquitecture.Api.Controllers.ProductController.PostAsync(CleanArquitecture.Domain.Entities.Product)">
+            <summary>
+            This Method add a new product
+            </summary>
+            <param name="product"></param>
+            <returns> Product </returns>
+            <response code = "201">This code show you added a product</response>
+            <response code = "400">This code show you bad request </response>
+            <response code = "404">This code show you not found </response>        
+            <response code = "500">This code show error in the request or fail in the codification</response>
+        </member>
+        <member name="M:ClearArquitecture.Api.Controllers.ProductController.UpdateAsync(CleanArquitecture.Domain.Entities.Product)">
+            <summary>
+            This Method update a product
+            </summary>
+            <param name="product"></param>
+            <returns> Product </returns>
+            <response code = "201">This code show you updated product</response>
+            <response code = "400">This code show you bad request </response>
+            <response code = "500">This code show error in the request or fail in the codification</response>
+        </member>
+        <member name="M:ClearArquitecture.Api.Controllers.ProductController.DeleteAsync(System.Int32)">
+            <summary>
+            This Method delete a product
+            </summary>
+            <param name="id"></param>
+            <returns> Id </returns>
+            <response code = "201">This code show you deleted product</response>
+            <response code = "500">This code show error in the request or fail in the codification</response>
+        </member>
+    </members>
+</doc>
