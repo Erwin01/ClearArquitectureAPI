@@ -4,5 +4,5 @@ API development Using Architecture Three Tier in Visual Studio with Sql Server a
 Using database connection
 Code First
 
-Add-Migration "InitialMigration"
-Update-Database
+- Add-Migration "InitialMigration"
+- Update-Database
